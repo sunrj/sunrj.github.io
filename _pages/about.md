@@ -125,7 +125,7 @@ Academic Services
 
 
 
-Teaching
+<!-- Teaching
 ======
 - Course Instructor
   - Data Analytics for Graphs  (COMP9312) -  2021 T2 (*received 100% positive ratings on teaching in the post-course survey*).
@@ -135,7 +135,7 @@ Teaching
 
   - Database Systems (COMP9311) -  2017 S1, 2018 S1\*, 2019 T1\*, 2019 T3\*.
 
-  - Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2\*, 2019 T2\*.
+  - Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2\*, 2019 T2\*. -->
 
 Selected Awards
 ======
