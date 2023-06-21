@@ -10,7 +10,8 @@ redirect_from:
 
 Currently, I'm a Ph.D. candidate at the Software Engineering Institute, East China Normal University, under the supervision of [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Xiaoyang Wang](https://www.unsw.edu.au/staff/xiaoyang-wang). Previously, I received my Bachelor's degree in computer science and technology from Henan University in 2017, and Master’s degree in computer technology from Zhejiang Gongshang University in 2021.
 
-My research interest lies in big data analytics, especially for the signed graph/network. Link to [Google Scholar](https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en). Email address: renjie.sun@stu.ecnu.edu.cn
+My research interest lies in graph data mining, signed data analysis, and attribute graph processing.
+<!-- Link to [Google Scholar](https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en). Email address: renjie.sun@stu.ecnu.edu.cn -->
 
 Publications
 ======
