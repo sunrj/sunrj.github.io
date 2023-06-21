@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : "-"
-name                     : &name "Renjie Sun"
+title                    : "Renjie Sun"
+title_separator          : ""
+name                     : #&name "Renjie Sun"
 description              : &description "personal description"
 url                      : https://sunrj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
