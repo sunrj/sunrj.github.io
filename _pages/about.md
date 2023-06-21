@@ -12,7 +12,7 @@ Currently, I'm a Ph.D. candidate at the Software Engineering Institute, East Chi
 
 My research interest lies in big data analytics, especially for the signed graph/network. Link to [Google Scholar](https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en). Email address: renjie.sun@stu.ecnu.edu.cn
 
-Publications (* indicates corresponding author)
+Publications
 ======
 1. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks** (Book), *Springer Briefs in Computer Science*, 2022.
 2. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
