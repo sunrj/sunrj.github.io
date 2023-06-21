@@ -14,7 +14,8 @@ My research interest lies in big data analytics, especially for the signed graph
 
 Publications
 ======
-1. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks** (Book), *Springer Briefs in Computer Science*, 2022.
+1. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. 
+**Clique Identification in Signed Graphs: A Balance Theory based Model** (Journal), *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
 2. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
 3. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Lu Qin, and Alexander Zhou. **Efficient Personalized Maximum Biclique Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
 4. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Shunyang Li. **Discovering Hierarchy of Bipartite Graphs with Cohesive Subgraphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
