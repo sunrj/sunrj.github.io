@@ -105,7 +105,7 @@ Publications
 Academic Services
 ======
 
-- Organizing Committee
+<!-- - Organizing Committee
   - Web Chair of [VLDB 2022](http://vldb.org/2022/).
   - Publicity Chair of [LSGDA 2020](https://www.google.com/url?q=https%3A%2F%2Flsgda.github.io%2F2020%2F&sa=D&sntz=1&usg=AFQjCNFYfkgg9wBrWW8wUaG8GCGXJz3z_A).
 
@@ -115,13 +115,13 @@ Academic Services
   - [CIKM 2021](https://www.cikm2021.org/), WISE 2021, SpatialDI 2021.
 
 - Editoral Board:
-  - Frontiers in Big Data (Review Editor).
+  - Frontiers in Big Data (Review Editor). -->
 
-- Invited Journal Reviewer
-  - VLDBJ, TKDE, JOWS, WWWJ, JCST.
+- Invited Reviewer
+  - TKDE 2023, WWWJ 2022.
 
-- (External) Conference Reviewer
-  - SIGMOD, VLDB, ICDE, KDD, WWW, EDBT, CIKM, etc.
+- External Reviewer
+  - VLDB 2023, PKDD 2023.
 
 
 
@@ -139,12 +139,10 @@ Academic Services
 
 Selected Awards
 ======
-- [VLDB Endowment Grants](http://vldb.org/2021/?info-travel-support) @ VLDB 2021
-- CSE Foundation Fellowship @ UNSW, 2021
-- [Dean’s Award for Outstanding PhD Theses](https://www.inside.unsw.edu.au/campus-life/forty-eight-unsw-phd-graduates-have-been-awarded-the-deans-award-outstanding-phd-theses) @ UNSW, 2021
-- Outstanding Undergraduate Thesis @ ZJU, 2016
-- First Prize of National Undergraduate Training Program @ ZJU, 2015
-- First Prize of National Olympiad in Informatics in Provinces (NOIP) @ Shandong, 2011
+- Excellent Student Award @ ECNU, 2022
+- Outstanding Thesis Award @ ZJSU, 2021
+- SPEND grant for virtual attendance @ VLDB, 2021
+- Excellent Student Award @ HENU, 2015
 
 
 
