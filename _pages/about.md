@@ -18,28 +18,82 @@ Publications
 **Clique Identification in Signed Graphs: A Balance Theory based Model** (Journal), <br>
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
 
-2. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Accelerated butterfly counting with vertex priority on bipartite graphs**, *The VLDB Journal (**VLDBJ**)*, 2022.
-3. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Lu Qin, and Alexander Zhou. **Efficient Personalized Maximum Biclique Search**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
-4. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Shunyang Li. **Discovering Hierarchy of Bipartite Graphs with Cohesive Subgraphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
-5. Gengda Zhao, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, and Yizhang He. **Efficient Computation of Cohesive Subgraphs in Uncertain Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
-6. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Efficient Reinforcement of Bipartite Networks at Billion Scale**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2022.
-7. **Kai Wang**, Wenjie Zhang, Ying Zhang, Lu Qin, and Yuting Zhang. **Discovering Significant Communities on Bipartite Graphs: An Index-based Approach**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
-8. Yuting Zhang, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Pareto-Optimal Community Search on Large Bipartite Graphs**, *The Conference on Information and Knowledge Management (CIKM)*, 2021.
-9. **Kai Wang**, Yiheng Hu, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **CohBGA: A Cohesive Structure Based Bipartite Graph Analytics System** (Demo), *The Conference on Information and Knowledge Management (CIKM)*, 2021.
-10. Xiaoshuang Chen, **Kai Wang\***, Xuemin Lin, Wenjie Zhang, Lu Qin, and Ying Zhang. **Efficiently Answering Reachability and Path Queries on Temporal Bipartite Graphs**, *International Conference on Very Large Data Bases (**VLDB**)*, pages 1845-1858, 2021.
-11. Yixiang Fang, **Kai Wang**, Xuemin Lin, and Wenjie Zhang. **Cohesive Subgraph Search over Big Heterogeneous Information Networks: Applications, Challenges, and Solutions** (Tutorial), *ACM SIGMOD International Conference on Management of Data (**SIGMOD**)*, pages 2829-2838, 2021.
-12. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, *The VLDB Journal (**VLDBJ**)*, pages 1-24, 2021.
-13. Yizhang He, **Kai Wang\***, Wenjie Zhang, Xuemin Lin, and Ying Zhang. **Exploring Cohesive Subgraphs with Vertex Engagement and Tie Strength in Bipartite Graphs**, *Information Sciences*, pages 277-296, 2021.
-14. Fan Zhang, Jiadong Xie, **Kai Wang**, Shiyu Yang, Yu Jiang. **Discovering Key Users for Defending Network Structural Stability**, *World Wide Web*, pages 1-23, 2021.
-15. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, Jiahao Zhang, and **Kai Wang**. **On Discovering Motifs and Frequent Patterns in Spatial Trajectories with Discrete Frechet Distance**, *GeoInformatica*, to apprear, 2021.
-16. **Kai Wang**, Wenjie Zhang, Xuemin Lin, Ying Zhang, Lu Qin, and Yuting Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 85-96, 2021.
-17. **Kai Wang**, Shuting Wang, Xin Cao, and Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*,  2020. 
-18. Maryam Ghafouri, **Kai Wang\***, Fan Zhang, Ying Zhang, and Xuemin Lin. **Efficient Graph Hierarchical Decomposition With User Engagement And Tie Strength**, *International Conference on Database Systems for Advanced Applications (DASFAA)*, pages 448-465, 2020.
-19. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Efficient Bitruss Decomposition for Large-scale Bipartite Graphs**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 661-672, 2020.
-20. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, and Ying Zhang. **Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks**, *International Conference on Very Large Data Bases (**VLDB**)*, pages 1139-1152, 2019.
-21. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, and Lu Qin. **Efficient Computing of Radius-bounded k-cores**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 233-244, 2018.
-22. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, and **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, *International Conference on Extending Database Technology (EDBT)*, pages 378-389, 2017.
-23. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, and Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, *IEEE International Conference on Data Engineering (**ICDE**)*, pages 767-778, 2016.
+2. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
+**Efficient Maximum Signed Biclique Identification** (Conference), <br>
+*IEEE International Conference on Data Engineering (**ICDE**)*, 2023.
+
+3. Yanping Wu, **Renjie Sun**, Chen Chen, Xiaoyang Wang, Xianming Fu. <br>
+**Efficiently Answering Minimum Reachable Label Set Queries in Edge-Labeled Graphs** (Conference, Short paper), <br>
+*ACM International Conference on Information & Knowledge Management (**CIKM**)*, 2022.
+
+4. Yanping Wu, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
+**Efficient Attribute (α, β)-Core Detection in Large Bipartite Graphs** (Conference, Student abstract), <br>
+*The AAAI Conference on Artificial Intelligence (**AAAI**)*, 2022.
+
+5. **Renjie Sun**, Yanping Wu, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Xuemin Lin. <br>
+**Maximal balanced signed biclique enumeration in signed bipartite graphs** (Conference), <br>
+*IEEE International Conference on Data Engineering (**ICDE**)*, 2022.
+
+6. **Renjie Sun**, Chen Chen, Xijuan Liu, Shuangyan Xu, Xiaoyang Wang, Xuemin Lin. <br>
+**Critical nodes identification in large networks: the inclined and detached models** (Journal), <br>
+*World Wide Web (**WWWJ**)*, 2022.
+
+7. Chen Chen, Mengqi Zhang, **Renjie Sun**, Xiaoyang Wang, Weijie Zhu, Xun Wang. <br>
+**Locating pivotal connections: The K-Truss minimization and maximization problems** (Journal), <br>
+*World Wide Web (**WWWJ**)*, 2022.
+
+8. Chen Chen, Qiuyu Zhu, Yanping Wu, **Renjie Sun**, Xiaoyang Wang, Xijuan Liu. <br>
+**Efficient critical relationships identification in bipartite networks** (Journal), <br>
+*World Wide Web (**WWWJ**)*, 2022.
+
+9. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Yanping Wu, Mengqi Zhang, Xijuan Liu. <br>
+**The art of characterization in large networks: Finding the critical attributes** (Journal), <br>
+*World Wide Web (**WWWJ**)*, 2022.
+
+10. **Renjie Sun**, Yanping Wu, Xiaoyang Wang. <br>
+**Diversified Top-𝑟 Community Search in Geo-Social Network: A K-Truss** (Conference, Short paper), <br>
+*International Conference on Extending Database Technology (**EDBT**)*, 2022.
+
+11. Yanping Wu, Jun Zhao, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
+**Efficient personalized influential community search in large networks** (Journal), <br>
+*Data Science and Engineering (**DSE**)*, 2021.
+
+12. Chen Chen, Yanping Wu, **Renjie Sun**, Xiaoyang Wang. <br>
+**Maximum signed θ-clique identification in large signed graphs** (Journal), <br>
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
+
+13. Chen Chen, Qiuyu Zhu, **Renjie Sun**, Xiaoyang Wang, Yanping Wu. <br>
+**Edge manipulation approaches for k-core minimization: metrics and analytics** (Journal), <br>
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
+
+14. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Ying Zhang, Xun Wang. <br>
+**Stable community detection in signed social networks** (Journal), <br>
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2020.
+
+15. Hao Yang, Keyi Wang, **Renjie Sun**, Xiaoyang Wang. <br>
+**Fast Algorithms for Spatial K-Core Discovery and Maintenance** (Conference, Short paper), <br>
+*International Conference on High Performance Computing and Communications (**HPCC**)*, 2020.
+
+16. Yanping Wu, **Renjie Sun**, Chen Chen, Xiaoyang Wang, Qiuyu Zhu. <br>
+**Maximum signed (k, r)-truss identification in signed networks** (Conference, Poster paper), <br>
+*ACM International Conference on Information & Knowledge Management (**CIKM**)*, 2020.
+
+17. Jun Zhao, **Renjie Sun**, Qiuyu Zhu, Xiaoyang Wang, Chen Chen. <br>
+**Community identification in signed networks: a k-truss based model** (Conference, Short paper), <br>
+*ACM International Conference on Information & Knowledge Management (**CIKM**)*, 2020.
+
+18. Yanping Wu, Jun Zhao, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
+**Efficient Personalized Influential Community Search in Large Networks** (Conference), <br>
+*Asia-Pacific Web and Web-Age Information Management (**APWeb-WAIM**)*, 2020.
+
+19. Yuehao Xu, **Renjie Sun**, Yanping Wu, Chen Chen, Xiaoyang Wang. <br>
+**Querying influential maximum connected community in large graphs** (Conference, Poster paper), <br>
+*International Conference on Data Science and Advanced Analytics (**DSAA**)*, 2020.
+
+20. **Renjie Sun**, Qiuyu Zhu, Chen Chen, Xiaoyang Wang, Ying Zhang, Xun Wang. <br>
+**Discovering cliques in signed networks based on balance theory** (Conference, Short paper), <br>
+*Database Systems for Advanced Applications (**DASFAA**)*, 2020.
+
 
 Talks
 ======
