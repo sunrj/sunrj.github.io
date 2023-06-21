@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Kai Wang is currently an assistant professor at the Department of Data and Business Intelligence, [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong University. Before joining SJTU, he was a Postdoctoral Researcher in the Data and Knowledge Research Group at [University of New South Wales](https://www.unsw.edu.au/) from 2020 to 2022. He got his Ph.D. from The University of New South Wales in 2020 (advised by [Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/) and [Prof. Wenjie Zhang](http://www.cse.unsw.edu.au/~zhangw/)) and his bachelor’s degree from [Zhejiang University](https://www.zju.edu.cn/) in 2016, both in Computer Science. In 2015, He worked as a research assistant at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). <!--(advised by [UNSW Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/) and [Prof. Wenjie Zhang](http://www.cse.unsw.edu.au/~zhangw/)) -->
+Currently, I'm a Ph.D. candidate at the Software Engineering Institute, East China Normal University, under the supervision of [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Xiaoyang Wang](https://www.unsw.edu.au/staff/xiaoyang-wang). Previously, I received my Bachelor's degree in computer science and technology from Henan University in 2017, and Master’s degree in computer technology from Zhejiang Gongshang University in 2021.
 
-His research interests lie in big data analytics, especially for the graph/network and spatial data.  Link to [Google Scholar](https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=en). Email address: cskaelwang@gmail.com
-
-<!--*News: I will soon join the Department of Data and Business Intelligence, Antai College of Economics and Management, Shanghai Jiao Tong University as an assistant professor!*-->
+My research interest lies in big data analytics, especially for the signed graph/network. Link to [Google Scholar](https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en). Email address: renjie.sun@stu.ecnu.edu.cn
 
 Publications (* indicates corresponding author)
 ======
