@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kai Wang"
+title: "Renjie Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
