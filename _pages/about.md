@@ -15,83 +15,83 @@ My research interest lies in big data analytics, especially for the signed graph
 Publications
 ======
 1. **Renjie Sun**, Yanping Wu, Xiaoyang Wang, Chen Chen, Wenjie Zhang, Xuemin Lin. <br>
-**Clique Identification in Signed Graphs: A Balance Theory based Model** (Journal), <br>
+**Clique Identification in Signed Graphs: A Balance Theory based Model** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
 
 2. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
-**Efficient Maximum Signed Biclique Identification** (Conference), <br>
+**Efficient Maximum Signed Biclique Identification** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2023.
 
 3. Yanping Wu, **Renjie Sun**, Chen Chen, Xiaoyang Wang, Xianming Fu. <br>
-**Efficiently Answering Minimum Reachable Label Set Queries in Edge-Labeled Graphs** (Conference, Short paper), <br>
+**Efficiently Answering Minimum Reachable Label Set Queries in Edge-Labeled Graphs** (Conference, Short paper),
 *ACM International Conference on Information & Knowledge Management (**CIKM**)*, 2022.
 
 4. Yanping Wu, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
-**Efficient Attribute (α, β)-Core Detection in Large Bipartite Graphs** (Conference, Student abstract), <br>
+**Efficient Attribute (α, β)-Core Detection in Large Bipartite Graphs** (Conference, Student abstract),
 *The AAAI Conference on Artificial Intelligence (**AAAI**)*, 2022.
 
 5. **Renjie Sun**, Yanping Wu, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Xuemin Lin. <br>
-**Maximal balanced signed biclique enumeration in signed bipartite graphs** (Conference), <br>
+**Maximal balanced signed biclique enumeration in signed bipartite graphs** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2022.
 
 6. **Renjie Sun**, Chen Chen, Xijuan Liu, Shuangyan Xu, Xiaoyang Wang, Xuemin Lin. <br>
-**Critical nodes identification in large networks: the inclined and detached models** (Journal), <br>
+**Critical nodes identification in large networks: the inclined and detached models** (Journal),
 *World Wide Web (**WWWJ**)*, 2022.
 
 7. Chen Chen, Mengqi Zhang, **Renjie Sun**, Xiaoyang Wang, Weijie Zhu, Xun Wang. <br>
-**Locating pivotal connections: The K-Truss minimization and maximization problems** (Journal), <br>
+**Locating pivotal connections: The K-Truss minimization and maximization problems** (Journal),
 *World Wide Web (**WWWJ**)*, 2022.
 
 8. Chen Chen, Qiuyu Zhu, Yanping Wu, **Renjie Sun**, Xiaoyang Wang, Xijuan Liu. <br>
-**Efficient critical relationships identification in bipartite networks** (Journal), <br>
+**Efficient critical relationships identification in bipartite networks** (Journal),
 *World Wide Web (**WWWJ**)*, 2022.
 
 9. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Yanping Wu, Mengqi Zhang, Xijuan Liu. <br>
-**The art of characterization in large networks: Finding the critical attributes** (Journal), <br>
+**The art of characterization in large networks: Finding the critical attributes** (Journal),
 *World Wide Web (**WWWJ**)*, 2022.
 
 10. **Renjie Sun**, Yanping Wu, Xiaoyang Wang. <br>
-**Diversified Top-𝑟 Community Search in Geo-Social Network: A K-Truss** (Conference, Short paper), <br>
+**Diversified Top-𝑟 Community Search in Geo-Social Network: A K-Truss** (Conference, Short paper),
 *International Conference on Extending Database Technology (**EDBT**)*, 2022.
 
 11. Yanping Wu, Jun Zhao, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
-**Efficient personalized influential community search in large networks** (Journal), <br>
+**Efficient personalized influential community search in large networks** (Journal),
 *Data Science and Engineering (**DSE**)*, 2021.
 
 12. Chen Chen, Yanping Wu, **Renjie Sun**, Xiaoyang Wang. <br>
-**Maximum signed θ-clique identification in large signed graphs** (Journal), <br>
+**Maximum signed θ-clique identification in large signed graphs** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
 
 13. Chen Chen, Qiuyu Zhu, **Renjie Sun**, Xiaoyang Wang, Yanping Wu. <br>
-**Edge manipulation approaches for k-core minimization: metrics and analytics** (Journal), <br>
+**Edge manipulation approaches for k-core minimization: metrics and analytics** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021.
 
 14. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Ying Zhang, Xun Wang. <br>
-**Stable community detection in signed social networks** (Journal), <br>
+**Stable community detection in signed social networks** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2020.
 
 15. Hao Yang, Keyi Wang, **Renjie Sun**, Xiaoyang Wang. <br>
-**Fast Algorithms for Spatial K-Core Discovery and Maintenance** (Conference, Short paper), <br>
+**Fast Algorithms for Spatial K-Core Discovery and Maintenance** (Conference, Short paper),
 *International Conference on High Performance Computing and Communications (**HPCC**)*, 2020.
 
 16. Yanping Wu, **Renjie Sun**, Chen Chen, Xiaoyang Wang, Qiuyu Zhu. <br>
-**Maximum signed (k, r)-truss identification in signed networks** (Conference, Poster paper), <br>
+**Maximum signed (k, r)-truss identification in signed networks** (Conference, Poster paper),
 *ACM International Conference on Information & Knowledge Management (**CIKM**)*, 2020.
 
 17. Jun Zhao, **Renjie Sun**, Qiuyu Zhu, Xiaoyang Wang, Chen Chen. <br>
-**Community identification in signed networks: a k-truss based model** (Conference, Short paper), <br>
+**Community identification in signed networks: a k-truss based model** (Conference, Short paper),
 *ACM International Conference on Information & Knowledge Management (**CIKM**)*, 2020.
 
 18. Yanping Wu, Jun Zhao, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
-**Efficient Personalized Influential Community Search in Large Networks** (Conference), <br>
+**Efficient Personalized Influential Community Search in Large Networks** (Conference),
 *Asia-Pacific Web and Web-Age Information Management (**APWeb-WAIM**)*, 2020.
 
 19. Yuehao Xu, **Renjie Sun**, Yanping Wu, Chen Chen, Xiaoyang Wang. <br>
-**Querying influential maximum connected community in large graphs** (Conference, Poster paper), <br>
+**Querying influential maximum connected community in large graphs** (Conference, Poster paper),
 *International Conference on Data Science and Advanced Analytics (**DSAA**)*, 2020.
 
 20. **Renjie Sun**, Qiuyu Zhu, Chen Chen, Xiaoyang Wang, Ying Zhang, Xun Wang. <br>
-**Discovering cliques in signed networks based on balance theory** (Conference, Short paper), <br>
+**Discovering cliques in signed networks based on balance theory** (Conference, Short paper),
 *Database Systems for Advanced Applications (**DASFAA**)*, 2020.
 
 
