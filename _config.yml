@@ -11,9 +11,9 @@ title                    : "Kai Wang"
 title_separator          : "-"
 name                     : &name "Kai Wang"
 description              : &description "personal description"
-url                      : https://cs-kaiwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sunrj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cs-kaiwang/cs-kaiwang.github.io"
+repository               : "sunrj/sunrj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kai Wang"
-  avatar           : "profile.png"
-  bio              : "Assistant professor at Antai College of Economics and Management, Shanghai Jiao Tong University"
+  name             : "Renjie Sun"
+  avatar           : "srj.png"
+  bio              : "Ph.D. candidate at the Software Engineering Institute, East China Normal University"
   location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=zh-CN"
-  email            : "cskaelwang@gmail.com"
-  researchgate     : "https://www.researchgate.net/scientific-contributions/Kai-Wang-2148811051"
+  googlescholar    : "https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en"
+  email            : "renjie.sun@stu.ecnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Renjie_Sun3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "changyibeihai"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kai-wang-bbb273155/"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
