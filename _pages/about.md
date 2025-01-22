@@ -15,6 +15,16 @@ My research interests lie in graph data mining, signed data analysis, and attrib
 
 Publications
 ======
+1. Yanping Wu, **Renjie Sun**, Xiaoyang Wang, Dong Wen, Ying Zhang, Lu Qin, Xuemin Lin. <br>
+**Efficient Maximal Frequent Group Enumeration in Temporal Bipartite Graphs** (Conference),
+*International Conference on Very Large Databases (**VLDB**)*, 2024.
+
+2. Yanping Wu, **Renjie Sun**, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin. <br>
+**Efficient Maximal Temporal Plex Enumeration** (Conference),
+*IEEE International Conference on Data Engineering (**ICDE**)*, 2024.
+
+
+
 1. **Renjie Sun**, Yanping Wu, Xiaoyang Wang, Chen Chen, Wenjie Zhang, Xuemin Lin. <br>
 **Efficient Balanced Signed Biclique Search in Signed Bipartite Graphs** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
