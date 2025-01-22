@@ -139,10 +139,10 @@ Academic Services
   - Frontiers in Big Data (Review Editor). -->
 
 - Invited Reviewer
-  - TKDE 2023, WWWJ 2022.
+  - TKDE 2023 2024, DASFAA 2024 2025, WWWJ 2022, KIS 2024.
 
 - External Reviewer
-  - VLDB 2023, PKDD 2023, CIKM 2023.
+  - VLDB 2023, ICDE 2024 2025, PKDD 2023, CIKM 2023 2024.
 
 
 
