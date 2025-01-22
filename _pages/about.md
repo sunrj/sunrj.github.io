@@ -160,7 +160,9 @@ Academic Services
 
 Selected Awards
 ======
-- Excellent Student Award @ ECNU, 2022
+- Student Science and Technology Excellence, @ ECNU, 2024
+- National Scholarship, Ph.D. Student, 2023
+- Excellent Student Award @ ECNU, 2022 2023
 - Outstanding Thesis Award @ ZJSU, 2021
 - SPEND grant for virtual attendance @ VLDB, 2021
 - Excellent Student Award @ HENU, 2015
