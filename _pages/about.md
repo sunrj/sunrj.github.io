@@ -15,6 +15,21 @@ My research interests lie in graph data mining, signed data analysis, and attrib
 
 Publications
 ======
+```
+3. **Renjie Sun**, Yanping Wu, Xiaoyang Wang, Chen Chen, Wenjie Zhang, Xuemin Lin. <br>
+**Efficient Balanced Signed Biclique Search in Signed Bipartite Graphs** (Journal),
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
+
+2. **Renjie Sun**, Yanping Wu, Xiaoyang Wang, Chen Chen, Wenjie Zhang, Xuemin Lin. <br>
+**Clique Identification in Signed Graphs: A Balance Theory based Model** (Journal),
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
+
+1. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
+**Efficient Maximum Signed Biclique Identification** (Conference),
+*IEEE International Conference on Data Engineering (**ICDE**)*, 2023.
+```
+
+
 1. **Renjie Sun**, Yanping Wu, Xiaoyang Wang, Chen Chen, Wenjie Zhang, Xuemin Lin. <br>
 **Efficient Balanced Signed Biclique Search in Signed Bipartite Graphs** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2023.
