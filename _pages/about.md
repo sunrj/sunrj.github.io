@@ -18,6 +18,10 @@ Publications
 **<sup><b>*</b></sup> indicates I am the corresponding author.**
 
 
+- **Renjie Sun**, Chen Chen, Xiaoyang Wang, Yanping Wu, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
+**Efficient Maximum Signed Biclique and Biplex Identification in Signed Bipartite Graphs** (Journal),
+*The VLDB Journal (**VLDBJ**)*, 2025.
+
 - Hongbo Qiu, **Renjie Sun**<sup><b>*</b></sup>, Chen Chen, Xiaoyang Wang. <br>
 **Enhance Stability of Network by Edge Anchor** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2025.
