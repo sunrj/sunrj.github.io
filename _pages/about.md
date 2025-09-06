@@ -18,7 +18,7 @@ Publications
 **<sup><b>*</b></sup> indicates I am the corresponding author.**
 
 
-- Hongbo Qiu, **Renjie Sun**$^{*}$, Chen Chen, Xiaoyang Wang. <br>
+- Hongbo Qiu, **Renjie Sun**<sup><b>*</b></sup>, Chen Chen, Xiaoyang Wang. <br>
 **Enhance Stability of Network by Edge Anchor** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2025.
 
