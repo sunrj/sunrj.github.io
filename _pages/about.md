@@ -22,7 +22,7 @@ Publications
 **Enhance Stability of Network by Edge Anchor** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2025.
 
-- Yongye Li, **Renjie Sun**, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
+- Yongye Li, **Renjie Sun**$^{*}$, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
 **Discovering Cliques in Attribute Graphs Based on Proportional Fairness** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025.
 
