@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm a Ph.D. candidate at the Software Engineering Institute, East China Normal University, under the supervision of [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Xiaoyang Wang](https://www.unsw.edu.au/staff/xiaoyang-wang). Previously, I received my Bachelor's degree in computer science and technology from Henan University in 2017, and Master’s degree in computer technology from Zhejiang Gongshang University in 2021.
+Currently, I'm a lecturer at the School of Computer Science and Technology, Zhejiang Gongshang University (ZJSU). I obtained the Ph.D. degree in Software Engineering from East China Normal University in 2025, under the supervision of [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Xiaoyang Wang](https://www.unsw.edu.au/staff/xiaoyang-wang). Previously, I received my Bachelor's degree in Computer Science and Technology from Henan University in 2017, and my Master’s degree in Computer Technology from Zhejiang Gongshang University in 2021.
 
 My research interests lie in graph data mining, signed data analysis, and attribute graph processing.
 <!-- Link to [Google Scholar](https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en). Email address: renjie.sun@stu.ecnu.edu.cn -->
 
 Publications
 ======
-1. Hongbo Qiu, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
+- Hongbo Qiu, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
 **Enhance Stability of Network by Edge Anchor** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2025.
 
-2. Yongye Li, **Renjie Sun**, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
+- Yongye Li, **Renjie Sun**, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
 **Discovering Cliques in Attribute Graphs Based on Proportional Fairness** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025.
 
