@@ -15,7 +15,8 @@ My research interests lie in graph data mining, signed data analysis, and attrib
 
 Publications
 ======
-**$*$ indicates I am the corresponding author.**
+**$*$indicates I am the corresponding author.**
+
 
 - Hongbo Qiu, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
 **Enhance Stability of Network by Edge Anchor** (Conference),
