@@ -14,7 +14,7 @@ My research interests lie in graph data mining, signed data analysis, and attrib
 <!-- Link to [Google Scholar](https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en). Email address: renjie.sun@stu.ecnu.edu.cn -->
 
 Publications
-* indicates I am the corresponding author.
+$*$ indicates I am the corresponding author.
 ======
 - Hongbo Qiu, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
 **Enhance Stability of Network by Edge Anchor** (Conference),
