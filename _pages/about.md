@@ -22,11 +22,11 @@ Publications
 **Efficient Maximum Signed Biclique and Biplex Identification in Signed Bipartite Graphs** (Journal),
 *The VLDB Journal (**VLDBJ**)*, 2025.
 
-- Hongbo Qiu, **Renjie Sun <sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang. <br>
+- Hongbo Qiu, **Renjie Sun<sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang. <br>
 **Enhance Stability of Network by Edge Anchor** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2025.
 
-- Yongye Li, **Renjie Sun <sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
+- Yongye Li, **Renjie Sun<sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
 **Discovering Cliques in Attribute Graphs Based on Proportional Fairness** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025.
 
@@ -34,11 +34,11 @@ Publications
 **Efficient Maximal Frequent Clique Enumeration in Multilayer Networks** (Conference),
 *Database Systems for Advanced Applications (**DASFAA**)*, 2025.
 
-- Yanping Wu, **Renjie Sun <sup><b>#</b></sup>**, Xiaoyang Wang, Dong Wen, Ying Zhang, Lu Qin, Xuemin Lin. <br>
+- Yanping Wu, **Renjie Sun<sup><b>#</b></sup>**, Xiaoyang Wang, Dong Wen, Ying Zhang, Lu Qin, Xuemin Lin. <br>
 **Efficient Maximal Frequent Group Enumeration in Temporal Bipartite Graphs** (Conference),
 *International Conference on Very Large Databases (**VLDB**)*, 2024.
 
-- Yanping Wu, **Renjie Sun <sup><b>#</b></sup>**, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin. <br>
+- Yanping Wu, **Renjie Sun<sup><b>#</b></sup>**, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin. <br>
 **Efficient Maximal Temporal Plex Enumeration** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2024.
 
