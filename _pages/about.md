@@ -179,7 +179,7 @@ Academic Services
 
 Selected Awards
 ======
-- Outstanding PhD graduate, @ ECNU, 2025
+- Outstanding PhD Graduate, @ ECNU, 2025
 - Student Science and Technology Excellence, @ ECNU, 2024
 - National Scholarship, Ph.D. Student, 2023
 - Excellent Student Award @ ECNU, 2022 2023
