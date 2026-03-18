@@ -118,7 +118,7 @@ Publications
 **Stable community detection in signed social networks** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2020.
 
-- Hao Yang, Keyi Wang, **Renjie Sun**, Xiaoyang Wang. <br>
+1. Hao Yang, Keyi Wang, **Renjie Sun**, Xiaoyang Wang. <br>
 **Fast Algorithms for Spatial K-Core Discovery and Maintenance** (Conference, Short paper),
 *International Conference on High Performance Computing and Communications (**HPCC**)*, 2020.
 
