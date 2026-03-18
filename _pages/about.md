@@ -10,7 +10,7 @@ redirect_from:
 
 Currently, I'm a lecturer at the School of Computer Science and Technology, Zhejiang Gongshang University (ZJSU). I obtained the Ph.D. degree in Software Engineering from East China Normal University in 2025, under the supervision of [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and [Xiaoyang Wang](https://www.unsw.edu.au/staff/xiaoyang-wang). Previously, I received my Bachelor's degree in Computer Science and Technology from Henan University in 2017, and my Master’s degree in Computer Technology from Zhejiang Gongshang University in 2021.
 
-My research interests lie in graph data mining, signed data analysis, and attribute graph processing.
+My research interests lie in graph data mining, signed data analysis, and social simulation.
 <!-- Link to [Google Scholar](https://scholar.google.com/citations?user=7pePWUAAAAAJ&hl=en). Email address: renjie.sun@stu.ecnu.edu.cn -->
 
 Publications
