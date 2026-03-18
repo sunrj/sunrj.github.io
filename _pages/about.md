@@ -18,6 +18,14 @@ Publications
 **<sup><b>#</b></sup> indicates I am the corresponding author.**
 
 
+- **Renjie Sun**, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
+**Efficient Maximal Balanced CliPlex Enumeration in Signed Graphs** (Journal),
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2026.
+
+- Yanping Wu, **Renjie Sun<sup><b>#</b></sup>**, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin. <br>
+**Efficient k-Plex Mining in Temporal Graphs** (Journal),
+*IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025.
+
 - **Renjie Sun**, Chen Chen, Xiaoyang Wang, Yanping Wu, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
 **Efficient Maximum Signed Biclique and Biplex Identification in Signed Bipartite Graphs** (Journal),
 *The VLDB Journal (**VLDBJ**)*, 2025.
