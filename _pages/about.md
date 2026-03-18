@@ -18,27 +18,27 @@ Publications
 **<sup><b>#</b></sup> indicates I am the corresponding author.**
 
 
-- **Renjie Sun**, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
+1. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
 **Efficient Maximal Balanced CliPlex Enumeration in Signed Graphs** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2026.
 
-- Yanping Wu, **Renjie Sun<sup><b>#</b></sup>**, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin. <br>
+1. Yanping Wu, **Renjie Sun<sup><b>#</b></sup>**, Xiaoyang Wang, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin. <br>
 **Efficient k-Plex Mining in Temporal Graphs** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025.
 
-- **Renjie Sun**, Chen Chen, Xiaoyang Wang, Yanping Wu, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
+1. **Renjie Sun**, Chen Chen, Xiaoyang Wang, Yanping Wu, Wenjie Zhang, Ying Zhang, Xuemin Lin. <br>
 **Efficient Maximum Signed Biclique and Biplex Identification in Signed Bipartite Graphs** (Journal),
 *The VLDB Journal (**VLDBJ**)*, 2025.
 
-- Hongbo Qiu, **Renjie Sun<sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang. <br>
+1. Hongbo Qiu, **Renjie Sun<sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang. <br>
 **Enhance Stability of Network by Edge Anchor** (Conference),
 *IEEE International Conference on Data Engineering (**ICDE**)*, 2025.
 
-- Yongye Li, **Renjie Sun<sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
+1. Yongye Li, **Renjie Sun<sup><b>#</b></sup>**, Chen Chen, Xiaoyang Wang, Ying Zhang, Wenjie Zhang. <br>
 **Discovering Cliques in Attribute Graphs Based on Proportional Fairness** (Journal),
 *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025.
 
-- Han Wang, **Renjie Sun**, Yongye Li, Chen Chen, Xiaoyang Wang, Ying Zhang. <br>
+1. Han Wang, **Renjie Sun**, Yongye Li, Chen Chen, Xiaoyang Wang, Ying Zhang. <br>
 **Efficient Maximal Frequent Clique Enumeration in Multilayer Networks** (Conference),
 *Database Systems for Advanced Applications (**DASFAA**)*, 2025.
 
