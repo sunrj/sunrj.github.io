@@ -102,7 +102,7 @@ Publications
 **Diversified Top-𝑟 Community Search in Geo-Social Network: A K-Truss** (Conference, Short paper),
 *International Conference on Extending Database Technology (**EDBT**)*, 2022.
 
-- Yanping Wu, Jun Zhao, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
+1. Yanping Wu, Jun Zhao, **Renjie Sun**, Chen Chen, Xiaoyang Wang. <br>
 **Efficient personalized influential community search in large networks** (Journal),
 *Data Science and Engineering (**DSE**)*, 2021.
 
